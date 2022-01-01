@@ -11,8 +11,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/scss-bootstrap-created-profile-card-component-Bvapi1twI
+- Live Site URL: https://jvstleon.github.io/Profile-Card-Component/
 
 
 ## Built with
